@@ -1,2 +1,3 @@
-# demo
-I am from Local repo
+<<<<<<< HEAD
+jai shri ram 
+
